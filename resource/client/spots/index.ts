@@ -1,5 +1,5 @@
-import { onServerEvent, player } from "@aifivem/lib/client";
-import { readVec4, type Vec4 } from "@aifivem/lib/shared";
+import { onServerEvent, player } from "@aicore8/lib/client";
+import { readVec4, type Vec4 } from "@aicore8/lib/shared";
 import { EVENTS } from "common/robbery";
 import { robbed } from "./robbed";
 import { spots } from "./spots";

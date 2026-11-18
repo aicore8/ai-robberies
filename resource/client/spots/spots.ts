@@ -4,8 +4,8 @@ import {
   fadeIn,
   fadeOut,
   Points,
-} from "@aifivem/lib/client";
-import { RecordObjects } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { RecordObjects } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { readPlace } from "common/places";
 import { EVENTS } from "common/robbery";

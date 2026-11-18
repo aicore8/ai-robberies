@@ -1,5 +1,5 @@
-import { buckets } from "@aifivem/lib/server";
-import type { Vec4 } from "@aifivem/lib/shared";
+import { buckets } from "@aicore8/lib/server";
+import type { Vec4 } from "@aicore8/lib/shared";
 import type { Place } from "common/places";
 import { EVENTS, INSIDE_META } from "common/robbery";
 import { content, core } from "../content";

@@ -3,8 +3,8 @@ import {
   onCharacter,
   onClientCallback,
   onStop,
-} from "@aifivem/lib/server";
-import { fail } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { fail } from "@aicore8/lib/shared";
 import { EVENTS } from "common/robbery";
 import { content } from "../content";
 import { houses } from "./houses";

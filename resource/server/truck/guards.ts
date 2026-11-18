@@ -1,5 +1,5 @@
-import { playersNearEntity } from "@aifivem/lib/server";
-import { waitFor, type Vec4 } from "@aifivem/lib/shared";
+import { playersNearEntity } from "@aicore8/lib/server";
+import { waitFor, type Vec4 } from "@aicore8/lib/shared";
 
 /** The truck's two armed guards (server-created peds) and the ones whose entity has not shown up yet. */
 export class Guards {

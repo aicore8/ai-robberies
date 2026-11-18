@@ -1,4 +1,4 @@
-import type { CardSpec, FileSpec, TabSpec } from "@aifivem/shared";
+import type { CardSpec, FileSpec, TabSpec } from "@aicore8/shared";
 import { doorCard, rewardCard } from "./targetCards";
 
 export const targetsFile: FileSpec = {

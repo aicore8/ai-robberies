@@ -1,50 +1,50 @@
 # Changelog
 
-## [0.2.4](https://github.com/aifivem/ai-robberies/compare/v0.2.3...v0.2.4) (2026-11-02)
+## [0.2.4](https://github.com/aicore8/ai-robberies/compare/v0.2.3...v0.2.4) (2026-11-02)
 
 
 ### Documentation
 
-* install from the release zip ([af355e9](https://github.com/aifivem/ai-robberies/commit/af355e907875cb4797fed01b87ad24882229b1c7))
+* install from the release zip ([af355e9](https://github.com/aicore8/ai-robberies/commit/af355e907875cb4797fed01b87ad24882229b1c7))
 
 
 ### Miscellaneous Chores
 
-* build files are no longer in git, the release zip carries them ([3773132](https://github.com/aifivem/ai-robberies/commit/3773132908ed607a438cf946c518daa4f5c0ca00))
+* build files are no longer in git, the release zip carries them ([3773132](https://github.com/aicore8/ai-robberies/commit/3773132908ed607a438cf946c518daa4f5c0ca00))
 
-## [0.2.3](https://github.com/aifivem/ai-robberies/compare/v0.2.2...v0.2.3) (2026-11-02)
-
-
-### Code Refactoring
-
-* import the shared packages from [@aifivem](https://github.com/aifivem) ([ebb1023](https://github.com/aifivem/ai-robberies/commit/ebb1023147c85f64b7320f38db72eee0e82e5c32))
-
-## [0.2.2](https://github.com/aifivem/ai-robberies/compare/v0.2.1...v0.2.2) (2026-11-01)
+## [0.2.3](https://github.com/aicore8/ai-robberies/compare/v0.2.2...v0.2.3) (2026-11-02)
 
 
 ### Code Refactoring
 
-* feature folders, side entries that only import, panel schema per tab ([50b1ce9](https://github.com/aifivem/ai-robberies/commit/50b1ce907b145491c69202ee290088820a38e9cf))
+* import the shared packages from [@aicore8](https://github.com/aicore8) ([ebb1023](https://github.com/aicore8/ai-robberies/commit/ebb1023147c85f64b7320f38db72eee0e82e5c32))
 
-## [0.2.1](https://github.com/aifivem/ai-robberies/compare/v0.2.0...v0.2.1) (2026-10-31)
+## [0.2.2](https://github.com/aicore8/ai-robberies/compare/v0.2.1...v0.2.2) (2026-11-01)
+
+
+### Code Refactoring
+
+* feature folders, side entries that only import, panel schema per tab ([50b1ce9](https://github.com/aicore8/ai-robberies/commit/50b1ce907b145491c69202ee290088820a38e9cf))
+
+## [0.2.1](https://github.com/aicore8/ai-robberies/compare/v0.2.0...v0.2.1) (2026-10-31)
 
 
 ### Miscellaneous Chores
 
-* rebuild with the current lib ([3ccdf2c](https://github.com/aifivem/ai-robberies/commit/3ccdf2c7ec9c454ee2030521ca7d5b23cdd6eeb3))
+* rebuild with the current lib ([3ccdf2c](https://github.com/aicore8/ai-robberies/commit/3ccdf2c7ec9c454ee2030521ca7d5b23cdd6eeb3))
 
-## [0.2.0](https://github.com/aifivem/ai-robberies/compare/v0.1.0...v0.2.0) (2026-10-31)
+## [0.2.0](https://github.com/aicore8/ai-robberies/compare/v0.1.0...v0.2.0) (2026-10-31)
 
 
 ### New Features
 
-* doors through the door lock layer ([e4098e3](https://github.com/aifivem/ai-robberies/commit/e4098e311752dc728e49aeede1ae788e44d5d6b2))
+* doors through the door lock layer ([e4098e3](https://github.com/aicore8/ai-robberies/commit/e4098e311752dc728e49aeede1ae788e44d5d6b2))
 
 
 ### Miscellaneous Chores
 
-* rebuild with the current lib ([27f8be3](https://github.com/aifivem/ai-robberies/commit/27f8be369b7f6065141813706f4be95c4043551a))
-* rebuild with the current lib ([7a3e4b2](https://github.com/aifivem/ai-robberies/commit/7a3e4b27efcf1084f6495930569028dd3d160e9e))
-* rebuild with the current lib ([acd8bd6](https://github.com/aifivem/ai-robberies/commit/acd8bd66b1fec35c9bf545e3ab3780ff9da93ddb))
-* rebuild with the current lib ([8fcd89f](https://github.com/aifivem/ai-robberies/commit/8fcd89f8dacd1afbe2ae8d40fac4290b931bd60d))
-* rebuild with the current lib ([b6e7762](https://github.com/aifivem/ai-robberies/commit/b6e7762d3b905583ec35d98ab2162142328989ef))
+* rebuild with the current lib ([27f8be3](https://github.com/aicore8/ai-robberies/commit/27f8be369b7f6065141813706f4be95c4043551a))
+* rebuild with the current lib ([7a3e4b2](https://github.com/aicore8/ai-robberies/commit/7a3e4b27efcf1084f6495930569028dd3d160e9e))
+* rebuild with the current lib ([acd8bd6](https://github.com/aicore8/ai-robberies/commit/acd8bd66b1fec35c9bf545e3ab3780ff9da93ddb))
+* rebuild with the current lib ([8fcd89f](https://github.com/aicore8/ai-robberies/commit/8fcd89f8dacd1afbe2ae8d40fac4290b931bd60d))
+* rebuild with the current lib ([b6e7762](https://github.com/aicore8/ai-robberies/commit/b6e7762d3b905583ec35d98ab2162142328989ef))

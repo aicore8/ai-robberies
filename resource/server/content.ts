@@ -1,4 +1,4 @@
-import { AdminPanel, online, resourceExport } from "@aifivem/lib/server";
+import { AdminPanel, online, resourceExport } from "@aicore8/lib/server";
 import { readPlace } from "common/places";
 import { readSettings } from "common/settings";
 import { readTarget } from "common/targets";

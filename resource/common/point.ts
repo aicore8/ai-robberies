@@ -1,4 +1,4 @@
-import { num, record, vec4, type Vec4 } from "@aifivem/lib/shared";
+import { num, record, vec4, type Vec4 } from "@aicore8/lib/shared";
 
 export type Point = { x: number; y: number; z: number };
 export const point = (v: unknown): Point => {

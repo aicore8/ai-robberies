@@ -4,8 +4,8 @@ import {
   playersNearEntity,
   progressFor,
   spawnVehicle,
-} from "@aifivem/lib/server";
-import { pickRandom } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { pickRandom } from "@aicore8/lib/shared";
 import { Locale } from "common";
 import { EVENTS } from "common/robbery";
 import { content } from "../content";

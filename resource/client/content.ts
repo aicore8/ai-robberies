@@ -1,4 +1,4 @@
-import { AdminWorld } from "@aifivem/lib/client";
+import { AdminWorld } from "@aicore8/lib/client";
 import { readPlace } from "common/places";
 import { readSettings } from "common/settings";
 

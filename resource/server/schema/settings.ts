@@ -1,5 +1,5 @@
-import { BLIP_STYLE_FIELDS } from "@aifivem/lib/shared";
-import type { FileSpec, TabSpec } from "@aifivem/shared";
+import { BLIP_STYLE_FIELDS } from "@aicore8/lib/shared";
+import type { FileSpec, TabSpec } from "@aicore8/shared";
 import { truckCard } from "./truckCard";
 
 export const settingsFile: FileSpec = {
