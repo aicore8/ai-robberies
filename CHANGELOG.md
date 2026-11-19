@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.5](https://github.com/aicore8/ai-robberies/compare/v0.2.4...v0.2.5) (2026-11-18)
+
+
+### Miscellaneous Chores
+
+* rename aifivem to aicore8 (aicore8.com, github.com/aicore8, [@aicore8](https://github.com/aicore8) npm scope) ([a6227dd](https://github.com/aicore8/ai-robberies/commit/a6227ddc6a9d8081c72cc5ee236e1e92568d0e12))
+
 ## [0.2.4](https://github.com/aicore8/ai-robberies/compare/v0.2.3...v0.2.4) (2026-11-02)
 
 
